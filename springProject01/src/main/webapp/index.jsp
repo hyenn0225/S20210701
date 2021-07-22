@@ -8,7 +8,16 @@
 </head>
 <body>
 	<%
-		response.sendRedirect("test");
+		//response.sendRedirect("test");
+		response.sendRedirect("main");
+		//response.sendRedirect("category");
+		//response.sendRedirect("contents");
+		//response.sendRedirect("join");
+		//response.sendRedirect("login");
+		//response.sendRedirect("mypage");
+		//response.sendRedirect("register");
+		//response.sendRedirect("header");
+		//response.sendRedirect("category");
 	%>
 </body>
 </html>
