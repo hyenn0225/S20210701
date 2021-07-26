@@ -143,3 +143,6 @@
 .header_bottom .filter_item:hover .select_box li:hover{
 	color: #269F70;
 }
+.header_bottom .filter_item:hover .select_box a:hover{
+	color: #269F70;
+}
